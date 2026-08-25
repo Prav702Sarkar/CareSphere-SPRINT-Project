@@ -1,0 +1,20 @@
+node_modules/
+.next/
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+dist/
+build/
+.vercel/
+*.zip
+*.tsbuildinfo
+
+# Flutter mobile ignore
+caresphere_mobile/.dart_tool/
+caresphere_mobile/build/
+caresphere_mobile/.flutter-plugins
+caresphere_mobile/.flutter-plugins-dependencies
+caresphere_mobile/android/.gradle/
+caresphere_mobile/android/local.properties
